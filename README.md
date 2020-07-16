@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello Know me better
 
-<!--
-**DevanshuBrahmbhatt/DevanshuBrahmbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Name:
 
-Here are some ideas to get you started:
+#### Position:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Email:
+
+#### About Myself:
+
+[Github]()
+
+[Linkedin](undefined)
+
+[Facebook]()
+
+[Instagram]()
+
+[Blog]()
+
+[Twitter]()
+
+[Other]()
+
+
+
+ - <h1>Education</h1>
+ - <h4>College Name: DDu</h4>
+    
+    Degree: kfjldsfk
+    
+    From: <h4>2020-05
+    
+    To: 2020-04
+    
+    About: jlkl
