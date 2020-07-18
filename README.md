@@ -23,7 +23,7 @@
 
 #### <br>Name: Devanshu Brahmbhatt
 
-#### Position: Creative Thinker
+#### Position: Full Stack Developer
 
 #### Email: devanshu.vguj@gmail.com
 
