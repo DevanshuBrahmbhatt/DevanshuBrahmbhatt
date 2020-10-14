@@ -48,7 +48,7 @@
 <h4>  From : 2020-05</h4> 
  <h4>  to :2020-06</h4> 
 <h4>  Github Link :https://github.com/DevanshuBrahmbhatt/Build_portfolio</h4> 
-<h4>  Website Link :https://www.buildportfolio.in/#/</h4> 
+<h4>  Website Link :https://www.buildportfolio.in/</h4> 
  </li></ul>
 
 # Skills
