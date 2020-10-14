@@ -53,7 +53,7 @@
 
 # Skills
 
-<h4>NodeJS,VueJS,Vuetify,PWA</h4>
+<h4>NodeJS, VueJS, Vuetify, PWA, DialogFlow, Chatbots, MEVN, JAVA, PHP, ElasticStack</h4>
 
 
 
