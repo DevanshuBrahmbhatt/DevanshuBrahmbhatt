@@ -1,62 +1,37 @@
+# Devanshu Brahmbhatt
 
-### Hi there!
+### AI Product Manager · Builder · Researcher · Founder
 
+I build AI products that close the gap between what frontier models can do and what enterprises can reliably deploy. My work spans enterprise AI, privacy infrastructure, developer APIs, agent systems, and products for sensitive data.
 
-<a href=https://www.facebook.com/devanshu.brahmbhatt/> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+[Portfolio](https://devanshubrahmbhatt.com/) · [LinkedIn](https://www.linkedin.com/in/devanshubrahmbhatt) · [Google Scholar](https://scholar.google.com/citations?user=LK7CJcoAAAAJ) · [X](https://x.com/devanshu1128) · [Medium](https://devanshu-vguj.medium.com/)
 
+## Current focus
 
-<a href=https://www.linkedin.com/in/devanshubrahmbhatt/ > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+- Leading 0→1 AI product work for Skyflow Detect, helping enterprises identify and protect sensitive data across AI, data, and security workflows.
+- Building and operating agents to understand what production systems need beyond a prompt: context, tools, permissions, memory, evaluation, reliability, and recovery.
+- Writing about AI product decisions, infrastructure tradeoffs, and the gap between compelling demos and dependable products.
 
+## Selected work
 
-<a href=https://twitter.com/DevanshuBrahmb1 > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+- **[Skyflow Detect](https://devanshubrahmbhatt.com/#work)** — AI privacy infrastructure for finding and protecting sensitive data across datasets, files, APIs, and agent workflows.
+- **[JobAuto.ai](https://www.jobauto.ai/)** — Founded and built browser agents that automated job applications across platforms including Greenhouse, Workday, and Ashby.
+- **[PaperTalk](https://devanshubrahmbhatt.com/#founder)** — Built an AI product for working with research papers as part of my founder journey.
+- **Rakuten** — Built and shipped automation and conversational-AI systems for global e-commerce before moving into AI product management.
 
+## Research
 
-<a href=https://www.instagram.com/devanshu.brahmbhatt/ > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+- First author, **[An open-source data storage and visualization platform for collaborative qubit control](https://www.nature.com/articles/s41598-024-72584-9)**, *Scientific Reports* (Nature Portfolio), 2024.
+- Co-author, **[Computing systems for superconducting qubits: challenges and opportunities](https://doi.org/10.1145/3711875.3737657)**, ACM MobiSys, 2025.
+- Former researcher at Lawrence Berkeley National Laboratory; M.S. in Computer Science from the University of Texas at Arlington.
 
+## Background
 
-<a href=https://medium.com/@devanshu.vguj > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+- 0→1 AI Product Manager at Skyflow
+- Former software engineer at Rakuten
+- Berkeley Lab researcher and published first author
+- Founder of JobAuto and PaperTalk
 
+## Contact
 
-<a href=https://devanshubrahmbhatt.github.io/portfolio/ > <img align="left" src="https://img.icons8.com/color/48/000000/shrug-emoticon.png"></img></a>
-
-#### Let's Connect<br>
-
-#### <br>Name: Devanshu Brahmbhatt
-
-#### Position: Full Stack Developer
-
-#### Email: devanshu.vguj@gmail.com
-
-#### <h4>About Myself: I'm passionate about entrepreneurship and all things tech. I excel in challenging environments where determination, passion, and creativity are needed to succeed.</h4>
-
-
-# Work Experience
-
-<ul>
-<li><h4> Company Name : Tailbuds </h4> 
-  <h4> Work Role : Full Stack Engineer</h4> 
-  <h4> From : 2020-05 </h4> 
-  <h4> to :2020-07 </h4> 
-  <h4> Details : Tailbuds is a startup for Dogs' Care and Dogs' Accessories. I Worked on Angular and Ionic, Also learned about Linux. As it is an Open-source so learned more about Git and Github. </h4> 
-</li></ul>
-
-# Projects
-
-<ul>
-<li> <h4>Project Name : Buildportfolio</h4> 
-<h4> Project Description : With BuildPorfolio there is no further need for any customization to be made by the user. Other website's alteration of the HTML & CSS is to be done by the user while with BuildPortfolio.</h4> 
-<h4>  From : 2020-05</h4> 
- <h4>  to :2020-06</h4> 
-<h4>  Github Link :https://github.com/DevanshuBrahmbhatt/Build_portfolio</h4> 
-<h4>  Website Link :https://www.buildportfolio.in/</h4> 
- </li></ul>
-
-# Skills
-
-<h4>NodeJS, VueJS, Vuetify, PWA, DialogFlow, Chatbots, MEVN, JAVA, PHP, ElasticStack</h4>
-
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DevanshuBrahmbhatt)
-
-[Developed By Devanshu ♥️](http://gitread.me/#/)
+The best place to understand my work is **[devanshubrahmbhatt.com](https://devanshubrahmbhatt.com/)**. You can also reach me through [LinkedIn](https://www.linkedin.com/in/devanshubrahmbhatt) or at [devanshu.vguj@gmail.com](mailto:devanshu.vguj@gmail.com).
